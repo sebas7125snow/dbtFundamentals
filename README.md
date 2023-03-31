@@ -1,0 +1,2 @@
+# dbtFundamentals
+dbt Fundamentals course
